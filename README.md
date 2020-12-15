@@ -50,6 +50,7 @@ If an error occurs in your workflow, GitHub Actions will identify where exactly 
 To learn more about continuous integration and how to use workflows with GitHub Actions check out:
 - https://docs.github.com/en/free-pro-team@latest/actions
 - https://carriewright11.github.io/Travis_CI_not_pkg_tutorial/Index.html
+- https://travis-ci.org/
 
 ### Thank you for reading, I hope this was helpful!
 
